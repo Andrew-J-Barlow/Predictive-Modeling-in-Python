@@ -1,0 +1,2 @@
+# Predictive-Modeling-in-Python
+Applied various machine learning models to predict subscription rates on a bank marketing campaign. Some of the machine learning models used include: Support Vector Machines, bagging classifier, gradient trees, and stochastic gradient descent. Cross validation techniques were implemented to check for over-fitting, and grid searches were applied on various parameters.  
